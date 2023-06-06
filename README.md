@@ -1,9 +1,11 @@
-#0969DA
 # Reading Notes
 for coding class 102d5
 
 ## About Me
 **Hi** I'm Billie, I'm an artist and sound designer, my pronouns are she/they
+
+I look like this 
+![Image of me](https://pbs.twimg.com/media/Fvnt_1yXsAcmrHt?format=jpg&name=4096x4096_)
 
 **_Some things I love!_**
 
