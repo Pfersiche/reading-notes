@@ -13,5 +13,4 @@ A commitment to the idea that your potential is not limited,
 *
 *
 
-## [Link to my GitHub portfolio]
-(https://github.com/Pfersiche?tab=repositories)
+[Link to my GitHub portfolio](https://github.com/Pfersiche?tab=repositories)
