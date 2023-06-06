@@ -1,4 +1,4 @@
-`#0969DA`
+#0969DA
 # Reading Notes
 for coding class 102d5
 
