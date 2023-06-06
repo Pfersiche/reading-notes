@@ -13,6 +13,7 @@ music, fragrances, painting miniatures, archive Comme des Garçons, and this pai
 ![My favourite painting "The Entire City" by Max Ernst](https://media.tate.org.uk/art/images/work/N/N05/N05289_10.jpg)
 
 ## Growth Mindset
+### What does growth mindset mean to me?
 A commitment to the idea that your potential is not limited inherently, that we have the capacity to develop and grow through learning. Challenges and setbacks can be overcome and used to learn rather than internalised as proof of something negative in yourself.
 ### How I can keep myself in a growth mindset:
 * Review things at the end of the day or the next day, to have a more objective view and acknowledge the small wins
