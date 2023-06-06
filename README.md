@@ -2,13 +2,14 @@
 for coding class 102d5
 
 ## Introduction 
-**Hi**  
+**Hi** I'm Billie
 
+!(https://media.tate.org.uk/art/images/work/N/N05/N05289_10.jpg)
 ## About
 
 ## Growth Mindset
 
-### How can I keep myself in a growth mindset
+### How I can keep myself in a growth mindset
 *
 *
 *
