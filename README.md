@@ -4,7 +4,8 @@ for coding class 102d5
 ## About Me
 **Hi** I'm Billie, I'm an artist and sound designer, my pronouns are she/they
 
-**_Some things I love_**
+**_Some things I love!_**
+
 music, fragrance, painting miniatures, archive Comme des Garçons, and this painting:
 
 ![My favourite painting "The Entire City" by Max Ernst](https://media.tate.org.uk/art/images/work/N/N05/N05289_10.jpg)
