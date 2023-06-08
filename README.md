@@ -1,6 +1,9 @@
 # Reading Notes
 for coding class 102d5
 
+## Table of Contents
+
+
 ## About Me
 **Hi** I'm Billie, I'm an artist and sound designer, my pronouns are she/they
 
