@@ -2,9 +2,10 @@
 for coding class 102d5
 
 ## Links to notes
-• [class 1](https://github.com/Pfersiche/reading-notes/blob/main/102/1.md)
-* [class 2](https://github.com/Pfersiche/reading-notes/blob/main/102/2.md)
-* [class 3](https://github.com/Pfersiche/reading-notes/blob/main/102/3.md)
+• [class 1](102/1.md)
+* [class 2](102/2.md)
+* [class 3](102/3.md)
+*
 
 
 ## About Me
