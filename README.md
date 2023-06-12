@@ -1,7 +1,10 @@
 # Reading Notes
 for coding class 102d5
 
-## Table of Contents
+## Links to notes
+• [class 1](https://github.com/Pfersiche/reading-notes/blob/main/102/1.md)
+* [class 2](https://github.com/Pfersiche/reading-notes/blob/main/102/2.md)
+* [class 3](https://github.com/Pfersiche/reading-notes/blob/main/102/3.md)
 
 
 ## About Me
